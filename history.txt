@@ -1,0 +1,500 @@
+   10  git help push
+   11  git remote add origin https://github.com/proper-logic/Practice
+   12  git remote -v
+   13  git push -u origin main
+   14  LS
+   15  ls
+   16  cd C:\Users\DELL\OneDrive\Desktop\blue
+   17   cd Users\DELL\OneDrive\Desktop\blue
+   18  cd Users
+   19  pwd
+   20  cd ..
+   21  pwd
+   22  cd blue
+   23  ls
+   24  ls/
+   25  ls /
+   26  touch hgdtf.txt
+   27  ls
+   28  echo task3.py
+   29  ls
+   30  mkdir -h
+   31  mkdir -help
+   32  mkdir --help
+   33  echo --help
+   34  echo "Hello"
+   35  ls --help
+   36  ls -l
+   37  ls /
+   38  man ls
+   39  man
+   40  man --help
+   41  man cd
+   42  mkdir heo
+   43  cd heo
+   44  cp task1.py .
+   45  cp ~task.py .
+   46  cp ~/task1.py .
+   47  cp ../task.py .
+   48  cd ..
+   49  ls
+   50  mv task.py heo
+   51  mv task1.py heo
+   52  cd heo
+   53  ls
+   54  cp task.py
+   55  cp --help
+   56  ls /
+   57  cd ../..
+   58  la /
+   59  ls /
+   60  cd /blue/heo
+   61  cd blue/heo
+   62  cd ..
+   63  mkdie -p Yello
+   64  mkdir -p Yello
+   65  ls
+   66  rmdir Yello
+   67  ls
+   68  mkdir -p Yello
+   69  cd Yello
+   70  mkdir -p Outer_directory/Inner_directory
+   71  ls
+   72  cd ../..
+   73  cd /blue/Yello
+   74  cd blue/Yello
+   75  pwd
+   76  cd /blue
+   77  cd ~blue
+   78  cd~/blue
+   79  cd ~/blue
+   80  cd /~blue
+   81  cd /
+   82  cd
+   83  cd ~
+   84  cd /blue
+   85  cd ~/Yello
+   86  cd /
+   87  cd ~/Learning_unix
+   88  cd ~/OneDrive
+   89  pwd
+   90  cd ~
+   91  cd ~/Desktop
+   92  cd ~
+   93  cd ~/blue
+   94  man cd
+   95  man ls
+   96  git init
+   97  git remote add origin https://github.com/Umuzi-org/Tanganani-Moshoeshoe-394-bash-for-bootcamp-.git
+   98  git branch -M main
+   99  git push -u origin main
+  100  git push -u origin main
+  101  ls
+  102  git init
+  103  git add .
+  104  ls
+  105  touch question_1.md question_2.md
+  106  ls
+  107  touch question_3.md question_4.md question_5.md question_6.md question_7.md question_8.md question_9.md question_10.md question_11.md question_12.md question_13.md
+  108  ls
+  109  touch question_1.md question_2.md question_3.md question_4.md question_5.md question_6.md question_7.md question_8.md question_9.md question_10.md question_11.md question_12.md question_13.md
+  110  git status
+  111  git add .
+  112  git status
+  113  pwd
+  114  git help rm
+  115  git status
+  116  git add .
+  117  git commit -a -m "answered all questions"
+  118  git status
+  119  git push origin main
+  120  git remote add origin https://github.com/Umuzi-org/Tanganani-Moshoeshoe-394-bash-for-bootcamp-.git
+  121  git remote -v
+  122  git push origin main
+  123  git fetch origin main:tmp
+  124  git rebase tmp
+  125  git push
+  126  git push --set-upstream origin main
+  127  git push
+  128  init
+  129  ls 
+  130  git log
+  131  cat README.md
+  132  git help log
+  133  git log -p
+  134  git diff
+  135  git log -l
+  136  git log --l
+  137  git branch
+  138  git branch milkshake-flavours
+  139  git branch
+  140  git switch milkshake-flavours
+  141  nano milkshake-flavours.md
+  142  git status
+  143  git commit -a -m "Added new flavours"
+  144  git add .
+  145  git status
+  146  git commit -m "Added new flavours"
+  147  git log -n
+  148  git log -n l
+  149  git log 0n 1
+  150  git log -n 1
+  151  gti checkout 
+  152  git checkout 3345c465122adce983d3165b9dab2b563c9d7e32 
+  153  git status
+  154  git add .
+  155  git commit -m "added initial flavours"
+  156  git log
+  157  git checkout milkshake-flavours
+  158  git log
+  159  ls
+  160  git reset 3345c465122adce983d3165b9dab2b563c9d7e32 
+  161  git commit -m "added initial flavours"
+  162  git log --oneline
+  163  git reset 3345c46
+  164  git commit -m "added initiaal flavours" --amend
+  165  git log 
+  166  git reset 3345c46
+  167  git commit -m "added initial flavours"
+  168  git commit -m "added initial flavours" --amend
+  169  git log --oneline
+  170  git branch
+  171  git checkout main
+  172  ls
+  173  git log
+  174  git switch -c history
+  175  git log
+  176  git branch
+  177  history > history.txt
+  178  git commit -a -m "added history"
+  179  git add ,
+  180  git commit -m "added history"
+  181  git add .
+  182  git commit -m "added history"
+  183  git log
+  184  git checkout milkshake-flavours
+  185  git branch
+  186  git log
+  187  git reset history
+  188  git status
+  189  git reset help
+  190  git help reset
+  191  git checkout history
+  192  git restore history.txt
+  193  ls
+  194  git checkout milkshake-flavours
+  195  ls
+  196  git log -p
+  197  git log
+  198  git switch main
+  199  ls
+  200  git switch history
+  201  nano blb.txt
+  202  git switch main
+  203  ls
+  204  history > too.txt
+  205  ls
+  206  git blb.txt -d
+  207  git switch history
+  208  ls
+  209  git status
+  210  git remove blb.txt
+  211  git rm blb.txt
+  212  git rm blb.txt
+  213  git rm too.txt
+  214  git add . 
+  215  git commit -a 
+  216  git log
+  217  ls
+  218  git status
+  219  git restore --staged milshake-flavours.md to unstage
+  220  git restore --staged milshake-flavours.md 
+  221  git log
+  222  git switch milkshake-flavours
+  223  ls
+  224  git status
+  225  git log
+  226  git commit -m "added initial flavours"
+  227  ls
+  228  git log
+  229  switch history
+  230  git swicth history
+  231  git switch history
+  232  ls
+  233  git log
+  234  git status
+  235  git log
+  236  git switch milkshake-flavours
+  237  git log
+  238  git main
+  239  git switch main
+  240  git log
+  241  git siwtch milkshake-flavours
+  242  git switch milkshake-flavours
+  243  git log
+  244  git diff
+  245  ls
+  246  git reset 665de0933f665755e6afbc97df0272572578f315
+  247  git log
+  248  git status
+  249  git switch history
+  250  git log
+  251  git switch main
+  252  git log
+  253  git switch milkshake-flavours
+  254  git log
+  255  git reset 665de0933f665755e6afbc97df0272572578f315
+  256  git log
+  257  git reset 665de0933f665755e6afbc97df0272572578f315
+  258  git log
+  259  git status
+  260  git add milkshake-flavours 
+  261  git add milkshake-flavours.md
+  262  git commit -m "added initial flavours"
+  263  git log
+  264  nano README.md
+  265  git status
+  266  git commit -a -m "random readme changes"
+  267  checkout history
+  268  git checkout history
+  269  cat README.md
+  270  rm README.md
+  271  ls
+  272  echo "booya" > README.md
+  273  ls
+  274  git cat README.md
+  275  cat README.md
+  276  git commit -a -m "rewrote readme"
+  277  git switch main
+  278  git log
+  279  ls
+  280  git switch history
+  281  ls
+  282  git log
+  283  git switch milkshake-flavours
+  284  ls
+  285  rm history.txt
+  286  ls
+  287  git log
+  288  git status
+  289  git commit -a
+  290  git commit -a -m "s"
+  291  git log --oneline
+  292  git status
+  293  git log
+  294  git reset 665de0933f665755e6afbc97df0272572578f315
+  295  git status
+  296  git rm history.txt
+  297  git add README.md
+  298  git log
+  299  git branch
+  300  git switch main
+  301  ls
+  302  git switch milkshake-flavours
+  303  git log
+  304  git restore milkshake-flavours.md
+  305  git init
+  306  touch README.md
+  307  nano README.md
+  308  git commit -a -m "initial commit"
+  309  git add .
+  310  nano README.md
+  311  git commit -m "initial commit"
+  312  git status
+  313  nano README.md
+  314  git commit -m "second commit"
+  315  git commit -a -m "second commit"
+  316  nano README.md
+  317  git commit -a -m "third commit"
+  318  git switch -c milkshake-flavours
+  319  nano milkshake-flavours.md
+  320  git commit -a -m "added initial flavours"
+  321  git add .
+  322  git commit -a -m "added initial flavours"
+  323  git log
+  324  nano README.md
+  325  git commit -a -m "random readme changes"
+  326  git log
+  327  git switch -c history
+  328  hitsory > history.txt
+  329  git history > history.txt
+  330  git branch
+  331  history > history.txt
+  332  ls
+  333  ls
+  334  git switch milkshake-flavours
+  335  ls
+  336  git switch history
+  337  git commit -a -m "added history"
+  338  git add .
+  339  git commit -a -m "added history"
+  340  ls
+  341  git witch main
+  342  git switch main
+  343  ls
+  344  git switch history
+  345  ls
+  346  git init
+  347  touch README.md
+  348  git add .
+  349  nano README.md
+  350  git commit -a -m "initial commit"
+  351  nano README.md
+  352  git commit -a -m "second commmit"
+  353  nano README.md
+  354  git commit -a -m "third commit"
+  355  git log
+  356  git branch milkshake-flavours
+  357  git checkout milkshake-flavours
+  358  nano milkshakes.md
+  359  git status
+  360  git add .
+  361  git commit -a -m "added initial flavours"
+  362  git log
+  363  git checkout main
+  364  git log
+  365  git branch history
+  366  git switch history
+  367  history > histor.txt
+  368  ls
+  369  mv hitor.txt history.txt
+  370  mv histor.txt history.txt
+  371  ls
+  372  git status
+  373  git add history.txt
+  374  rm README.md
+  375  echo "booya" > README.md
+  376  git commit -m "rewrote readme"
+  377  git log
+  378  git status
+  379  git reset 7baef65fcc7670ad2f97155772dd205142390bfd 
+  380  git add .
+  381  ls
+  382  git status
+  383  git commit -a -m "rewrote readme"
+  384  git log
+  385  ls
+  386  git rebase
+  387  git rebase history
+  388  git rebase -i --root
+  389  git rebase -i --root
+  390  ls
+  391  git switch
+  392  git switch main
+  393  ls
+  394  git log
+  395  git branch
+  396  git switch milkshake-flavours
+  397  ls
+  398  git log
+  399  ls
+  400  git log 
+  401  git switch history
+  402  ls
+  403  git log
+  404  git switch milkshake-flavours
+  405  ls
+  406  nano README
+  407  git add .
+  408  git commit -a -m "random readme changes"
+  409  git log
+  410  git log
+  411  git branch -d history
+  412  git log
+  413  git rebase 
+  414  git rebase milkshake-flavours
+  415  git rebase -i --root
+  416  git log
+  417  git rebase -i --root
+  418  git log
+  419  git log
+  420  git switch main
+  421  git switch -c history
+  422  history > hisory.txt
+  423  ls
+  424  git add history.txt
+  425  mv hisory.txt history.txt
+  426  add history.txt
+  427  git add history.txt
+  428  git commit -m "added history"
+  429  git log
+  430  ls
+  431  rm README.md
+  432  echo "booya" > README.md
+  433  git commit -m "rewrote readme"
+  434  git commit -a -m "rewrote readme"
+  435  git log
+  436  git switch main
+  437  git log
+  438  git switch milkshake-flavours
+  439  git log
+  440  ls
+  441  cd README
+  442  rm README
+  443  LS
+  444  git status
+  445  git add .
+  446  git status
+  447  git commit -m "deleted"
+  448  git rebase -i --root
+  449  ls
+  450  git log
+  451  git rebase --continue"
+  452  wq
+  453  git rebase --abort
+  454  git rebase --continue"
+  455  wq
+  456  git rebase --abort
+  457  git log
+  458  git rebase -i --root
+  459  --allow-empty
+  460  wq
+  461  git rebase --continue
+  462  ls
+  463  ls
+  464  git log
+  465  git log
+  466  touch README.md
+  467  git milkshake-flavours -d
+  468  git switch main
+  469  rm README.md
+  470  git switch README.md
+  471  git switch main'
+  472  wqwq
+  473  wwqwwqw
+  474  as
+  475  ddd
+  476  ad
+  477  ad
+  478  sad
+  479  s
+  480  d
+  481  q
+  482  hgcfdfdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+  483  git switch main
+  484  git switch main'
+  485  wqwq
+  486  wwqwwqw
+  487  as
+  488  git init
+  489  touch README.md
+  490  git add .
+  491  nano README.md
+  492  commit -m "initial commit"
+  493  git commit -m "initial commit"
+  494  nano README.md
+  495  git commit -a -m "second commit"
+  496  nano README.md
+  497  git commit -a -m "third commit"
+  498  git status
+  499  git switch -c milkshake-flavours
+  500  nano milkshakes.md
+  501  git add .
+  502  git commit -a -m "added initial falvours"
+  503  nano README.md
+  504  git commit -a -m "random readme changes"
+  505  git status
+  506  git log
+  507  git switch main
+  508  git switch -c history
+  509  history > history.txt
